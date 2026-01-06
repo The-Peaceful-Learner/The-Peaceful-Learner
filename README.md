@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @The-Peaceful-Learner
-- 👀 I’m interested in understanding the impact of Analytics in the business world by way of increasing traction, transactions and GMV
-- 🌱 I’m currently learning Digital Marketing Analytics
-- 💞️ I’m looking to collaborate on Analytics and Marketing
-- 📫 How to reach me: +91-9438686245 (Whatsapp cum Mobile number)
+- 👀 I work at the intersection of Analytics, Business Strategy, and Decision Science, driving measurable impact across growth, transactions, and GMV
+- 💡 Experienced in translating complex data into actionable insights for business leaders
+- 🤝 Open to collaborating on advanced analytics, customer insights, and marketing effectiveness
+- 📫 Reach me at: +91-9438686245 (WhatsApp / Mobile)
 
 <!---
 The-Peaceful-Learner/The-Peaceful-Learner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
